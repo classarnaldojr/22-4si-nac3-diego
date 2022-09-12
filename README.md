@@ -18,7 +18,7 @@ Este projeto poderá ser feito `individualmente` ou por grupos de `até 2 alunos
 
 | Nome dos Integrantes     | RM             | Turma   |
 | :----------------------- | :------------- | :-----: |
-| Integrante 1             | RM             |         |
+| Jesus Ruescas Junior     | 83146          |  4SIS   |
 | Integrante 2             | RM             |         |
 
 
